@@ -1,5 +1,5 @@
 # iOSLaunchImages
-Universal basic set of launch images for ios 7 &amp; 8
+Universal basic set of launch images for ios 7 &amp; 8, intended to get scratch projects up and running quickly.
 
 In xCode 6 install the launch images as follows:
 
